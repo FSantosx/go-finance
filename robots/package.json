@@ -1,0 +1,14 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "Robots to get articles from whitelist links",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Santos",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
+}
